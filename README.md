@@ -2,11 +2,11 @@
 
 🔭 I’m currently working on a project to highlight functional characterization of microbial interactions using Generative AI.
 
-Fun fact: I love many areas of science!  I am a licensed amateur radio operator doing emergency communications and public service.  I love experimenting with homemade antennas which I use to explore radio communication propagation from parks and beaches.
+🌅 Fun fact: I love many areas of science!  I am a licensed amateur radio operator doing emergency communications and public service.  I love experimenting with homemade antennas which I use to explore radio communication propagation from parks and beaches.
 
 🛠 Tech Stack
 
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </p>
+📊 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </p>
 
 🧪 Other Platforms
 - Benchling, Bitbucket, Asana, Monday.com
@@ -26,9 +26,4 @@ Here are some ideas to get you started:
 
 
 -->
-🛠 Tech Stack
-### 🧪 Tools & Platforms
-- Benchling, GitHub
 
-### 💻 Programming Languages
-- Python, R
