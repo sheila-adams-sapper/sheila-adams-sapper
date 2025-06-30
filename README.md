@@ -7,7 +7,8 @@ Fun fact: I love many areas of science!  I am a licensed amateur radio operator 
 🛠 Tech Stack
 
 <p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" alt="R" width="40" height="40"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/> </p>
-## 🧪 Other Platforms
+
+🧪 Other Platforms
 - Benchling, Bitbucket, Asana, Monday.com
 
 <!--
