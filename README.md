@@ -2,7 +2,7 @@
 
 📊 I’m currently working on a project to explore functional characterization of microbial interactions using Generative AI.
 
-🌅 Fun facts: I love many areas of science!  I am a licensed amateur radio operator doing emergency communications and public service.  I love experimenting with homemade antennas which I use to explore radio communication propagation from parks and beaches.  I am a member of The Cello Collective in Sebastopol, California. (My dad made my cello!)
+🌅 Fun facts: I love many areas of science.  I am a licensed amateur radio operator doing emergency communications and public service.  I love experimenting with homemade antennas which I use to explore radio communication propagation from parks and beaches.  I am a member of The Cello Collective in Sebastopol, California. (My dad made my cello!)
 
 🛠 Tech Stack
 
