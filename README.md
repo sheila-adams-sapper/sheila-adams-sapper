@@ -11,6 +11,7 @@
 💼 Work Experience
 
 - **Senior Bioinformatics Scientist** at Resilient Biotics (2018–Present)
+  
   Primary focus: Biomarker discovery and validation for microbial-based therapeutic development
   Developed RNA-seq, WGS, Sanger, and 16S microbiome analyses pipelines
   Built Machine Learning models to discover patterns in complex sequencing data from field study biosamples
