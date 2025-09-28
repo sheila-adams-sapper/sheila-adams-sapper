@@ -13,9 +13,9 @@
 - **Senior Bioinformatics Scientist** at Resilient Biotics (2018–Present)
   
   Primary focus: Biomarker discovery and validation for microbial-based therapeutic development
-  Developed RNA-seq, WGS, Sanger, and 16S microbiome analyses pipelines
-  Built Machine Learning models to discover patterns in complex sequencing data from field study biosamples
-  Developed a custom pipeline for risk analysis profiles of therapeutic candidates for antimicrobial resistance, virulence, and human pathogenicity
+  - Developed RNA-seq, WGS, Sanger, and 16S microbiome analyses pipelines
+  - Built Machine Learning models to discover patterns in complex sequencing data from field study biosamples
+  - Developed a custom pipeline for risk analysis profiles of therapeutic candidates for antimicrobial resistance, virulence, and human pathogenicity
 
 🌅 Fun facts: I love many areas of science.  I am a licensed amateur radio operator doing emergency communications and public service.  I love experimenting with homemade antennas which I use to explore radio communication propagation from parks and beaches.  I am a member of The Cello Collective in Sebastopol, California. (My dad made my cello!)
 
